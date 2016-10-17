@@ -1,0 +1,16 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"R4,R2",SM1206,2,4.7K,http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR18EZPJ472/?qs=sGAEpiMZZMtlubZbdhIBIGrVcSH3vih4BeVggAdyNNQ%3d
+2,"C1,C2",SM1206,2,22pF,http://www.mouser.com/ProductDetail/Kemet/C1206C220J5GACTU/?qs=sGAEpiMZZMs0AnBnWHyRQO2a6rsPNabd%252bV9vk8HsHEE%3d
+3,C3,SM1206,1,1uF,http://www.mouser.com/ProductDetail/AVX/12065C105K4Z2A/?qs=sGAEpiMZZMsh%252b1woXyUXj2%2fXaez8SnSoNGVHHSw%252bzH0%3d
+4,"R1,R3,R6",SM1206,3,10K,http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR18EZPJ103/?qs=sGAEpiMZZMtlubZbdhIBIGrVcSH3vih4ViPUSvGvILs%3d
+5,R5,SM1206,1,1K,http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR18EZPJ102/?qs=sGAEpiMZZMtlubZbdhIBIGrVcSH3vih4Msw5pvk939Y%3d
+6,X1,XTAL_6mmx3.5mm,1,XTAL 16MHz,http://www.mouser.com/ProductDetail/CTS/406C35E16M00000/?qs=%2fha2pyFaduhHRoZTrdZwjYlhyGQCvgk1ek%252b1hl4NL6q%252blyr5CSsZvETpCVF4rSeI
+7,CON2,USB_MINI_B,1,USB-MINI-B,http://www.mouser.com/ProductDetail/SparkFun-Electronics/PRT-00587/?qs=%2fha2pyFaduiBeR8MZTONRO1N7RDtQ1uP5KUl%2fqiD4lhPylG6s1YUDg%3d%3d
+8,U1,TQFP44,1,ATMEGA32U4-AU,http://www.mouser.com/ProductDetail/Atmel/ATMEGA32U4-AU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1C4u5a33SlKLw%3d
+9,SW1,TACT_SW,1,MCU_RST,http://www.mouser.com/ProductDetail/TE-Connectivity-Alcoswitch/FSM4JSMA/?qs=sGAEpiMZZMsgGjVA3toVBFPPbyLKBbZ5HnVG%2f3oghwA%3d
+10,K1,PIN_ARRAY_3X1,1,UV_SEN,https://www.adafruit.com/product/1918
+11,K2,PIN_ARRAY_3X1,1,ALS_PT19,https://www.adafruit.com/product/2748
+12,P1,PIN_ARRAY_2X1,1,SOLAR_PV,https://solarbotics.com/product/scc2433b-mse/
+13,P3,PIN_ARRAY-7X1,1,TSL2561,https://www.adafruit.com/product/439
+14,P2,PIN_ARRAY-7X1,1,BME280,https://www.adafruit.com/product/2652
+15,CON1,AVR_6_SMD,1,AVR-ISP-6-DR,http://www.mouser.com/ProductDetail/TE-Connectivity-AMP/1241050-3/?qs=sGAEpiMZZMs%252bGHln7q6pm5lMt7DE4wr9tK1FFSWpTU8%3d

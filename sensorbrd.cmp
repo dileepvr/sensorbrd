@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Mon Sep 19 10:32:47 2016
+
+BeginCmp
+TimeStamp = /57DC2FE5;
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2FF2;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2FF8;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC3154;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6-DR;
+IdModule  = AVR_6_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC45BC;
+Reference = CON2;
+ValeurCmp = USB-MINI-B;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2D40;
+Reference = K1;
+ValeurCmp = UV_SEN;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2D4F;
+Reference = K2;
+ValeurCmp = ALS_PT19;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2E15;
+Reference = P1;
+ValeurCmp = SOLAR_PV;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC5AF9;
+Reference = P2;
+ValeurCmp = BME280;
+IdModule  = PIN_ARRAY-7X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC3574;
+Reference = P3;
+ValeurCmp = TSL2561;
+IdModule  = PIN_ARRAY-7X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC3095;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC509E;
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC30A2;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC50A4;
+Reference = R4;
+ValeurCmp = 4.7K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC3B35;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC3B5A;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC3C8F;
+Reference = SW1;
+ValeurCmp = MCU_RST;
+IdModule  = TACT_SW;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2C39;
+Reference = U1;
+ValeurCmp = ATMEGA32U4-AU;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /57DC2F44;
+Reference = X1;
+ValeurCmp = XTAL 16MHz;
+IdModule  = XTAL_6mmx3.5mm;
+EndCmp
+
+EndListe
